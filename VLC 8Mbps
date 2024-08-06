@@ -20,32 +20,25 @@ http://118.68.57.205:4000/udp/225.1.1.128:30120
 http://118.68.57.205:4000/udp/225.1.2.236:30120
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.1.108:30120
-#-------------------Thi?t y?u-------------------#
-#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8Mbps)
-http://118.68.57.205:4000/udp/225.1.2.169:30120
-#EXTINF:0 tvg-id="nhandan" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV (HD 8Mbps)
-http://118.68.57.205:4000/udp/225.1.1.91:30120
-#EXTINF:0 tvg-id="quochoi" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/YtZGuSy.png",Qu?c H?i HD (HD 8Mbps)
-http://118.68.57.205:4000/udp/225.1.2.148:30120
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 8Mbps)
-http://118.68.57.205:4000/udp/225.1.2.217:30120
-#EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 8Mbps)
-http://118.68.57.205:4000/udp/225.1.1.167:30120
-#-------------------Qu?c t?-------------------#
-#EXTINF:0 tvg-id="abcaustralia" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
-http://118.68.57.205:4000/udp/225.1.2.21:30120
+#-------------------Quốc tế-------------------#
 #EXTINF:0 tvg-id="animalhd" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.1.231:30120
+#EXTINF:0 tvg-id="bbcearth" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 8Mbps)
+http://118.68.57.205:4000/udp/225.1.2.24:30120
+#EXTINF:0 tvg-id="cartoonhd" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8Mbps)
+http://118.68.57.205:4000/udp/225.1.2.231:30120
+#EXTINF:0 tvg-id="hbohd" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
+http://118.68.57.205:4000/udp/225.1.1.112:30120
+#EXTINF:0 tvg-id="axnhd" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8Mbps)
+http://118.68.57.205:4000/udp/225.1.2.225:30120
+#EXTINF:0 tvg-id="abcaustralia" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
+http://118.68.57.205:4000/udp/225.1.2.21:30120
 #EXTINF:0 tvg-id="animaxhd" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.1.135:30120
 #EXTINF:0 tvg-id="afnhd" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.1.198:30120
-#EXTINF:0 tvg-id="axnhd" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8Mbps)
-http://118.68.57.205:4000/udp/225.1.2.225:30120
 #EXTINF:0 tvg-id="" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.1.134:30120
-#EXTINF:0 tvg-id="bbcearth" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 8Mbps)
-http://118.68.57.205:4000/udp/225.1.2.24:30120
 #EXTINF:0 tvg-id="bbclifestyle" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.2.52:30120
 #EXTINF:0 tvg-id="bbcworldnews" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 8Mbps)
@@ -54,8 +47,6 @@ http://118.68.57.205:4000/udp/225.1.2.74:30120
 http://118.68.57.205:4000/udp/225.1.2.91:30120
 #EXTINF:0 tvg-id="boomerang" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.1.138:30120
-#EXTINF:0 tvg-id="cartoonhd" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8Mbps)
-http://118.68.57.205:4000/udp/225.1.2.231:30120
 #EXTINF:0 tvg-id="" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.1.202:30120
 #EXTINF:0 tvg-id="cnn" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
@@ -74,8 +65,6 @@ http://118.68.57.205:4000/udp/225.1.1.46:30120
 http://118.68.57.205:4000/udp/225.1.2.227:30120
 #EXTINF:0 tvg-id="france24eng" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.2.211:30120
-#EXTINF:0 tvg-id="hbohd" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
-http://118.68.57.205:4000/udp/225.1.1.112:30120
 #EXTINF:0 tvg-id="hbohd" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.2.233:30120
 #EXTINF:0 tvg-id="kbsworld" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World (HD 8Mbps)
@@ -145,7 +134,18 @@ http://118.68.57.205:4000/udp/225.1.1.171:30120
 #EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thu?n Vi?t (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.1.186:30120
 #EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 8Mbps)
-#-------------------Ð?a phýõng-------------------#
+#-------------------Thiết yếu-------------------#
+#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8Mbps)
+http://118.68.57.205:4000/udp/225.1.2.169:30120
+#EXTINF:0 tvg-id="nhandan" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV (HD 8Mbps)
+http://118.68.57.205:4000/udp/225.1.1.91:30120
+#EXTINF:0 tvg-id="quochoi" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/YtZGuSy.png",Qu?c H?i HD (HD 8Mbps)
+http://118.68.57.205:4000/udp/225.1.2.148:30120
+#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 8Mbps)
+http://118.68.57.205:4000/udp/225.1.2.217:30120
+#EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 8Mbps)
+http://118.68.57.205:4000/udp/225.1.1.167:30120
+#-------------------Ðịa phương-------------------#
 #EXTINF:0 tvg-id="laocai" group-title="Ð?a phýõng (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.1.119:30120
 #EXTINF:0 tvg-id="yenbai" group-title="Ð?a phýõng (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái (HD 8Mbps)
