@@ -92,7 +92,7 @@ http://118.68.57.205:4000/udp/225.1.4.217:30120
 http://118.68.57.205:4000/udp/225.1.4.164:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH H?u Giang (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.133:30120
-#-------------------Quốc tế-------------------#
+#-------------------World-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.19:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 4Mbps)
