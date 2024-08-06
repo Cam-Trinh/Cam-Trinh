@@ -18,10 +18,11 @@ http://118.68.57.205:4000/udp/225.1.4.201:30120
 http://118.68.57.205:4000/udp/225.1.4.7:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.8:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam B? (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 TNB (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.184:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.179:30120
+#-------------------VTC-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.42:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD (HD 4Mbps)
@@ -36,6 +37,7 @@ http://118.68.57.205:4000/udp/225.1.4.49:30120
 http://118.68.57.205:4000/udp/225.1.4.53:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.54:30120
+#-------------------HTV-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.56:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 4Mbps)
@@ -90,6 +92,7 @@ http://118.68.57.205:4000/udp/225.1.4.217:30120
 http://118.68.57.205:4000/udp/225.1.4.164:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH H?u Giang (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.133:30120
+#-------------------Quốc tế-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.19:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 4Mbps)
@@ -148,6 +151,7 @@ http://118.68.57.205:4000/udp/225.1.4.26:30120
 http://118.68.57.205:4000/udp/225.1.4.213:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.14:30120
+#-------------------Kênh SD-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Play",VTC2
 http://118.68.57.205:4000/udp/225.1.4.41:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",VTC5
@@ -164,6 +168,7 @@ http://118.68.57.205:4000/udp/225.1.4.55:30120
 http://118.68.57.205:4000/udp/225.1.4.57:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",HTV Keys
 http://118.68.57.205:4000/udp/225.1.4.58:30120
+#-------------------Địa phương-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Play",QTV3 HD _ TH Qu?ng Ninh
 http://118.68.57.205:4000/udp/225.1.4.86:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",BPTV2 HD _ TH B?nh Phý?c
