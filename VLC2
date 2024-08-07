@@ -90,6 +90,65 @@ https://api.wintv.me/360/169/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab23-the-thao-golf/${start}/${offset}", ON Golf (ON LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://m3u.at/ON-GOLF
+#-------------------World-------------------#
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.209:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.21:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.90:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.13:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.19:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax HD (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.168:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.36:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.9:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.29:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.23:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.22:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rxFZgIK.png",BLOOMBERG (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.18:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.16:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.76:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.17:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.208:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.25:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.24:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.39:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.75:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.20:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/YF2zMTz.png",FRANCE 24 (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.212:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.183:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.214:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.73:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.210:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.26:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.213:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.14:30120
 #-------------------VTC-------------------#
 #EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD (HD 8Mbps)
 http://118.68.57.205:4000/udp/225.1.2.254:30120
@@ -146,65 +205,6 @@ http://118.68.57.205:4000/udp/225.1.4.55:30120
 http://118.68.57.205:4000/udp/225.1.4.57:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",HTV Keys
 http://118.68.57.205:4000/udp/225.1.4.58:30120
-#-------------------World-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.19:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.209:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax HD (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.168:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.36:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.9:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.29:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.21:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.23:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.22:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rxFZgIK.png",BLOOMBERG (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.18:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.16:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.13:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.76:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.17:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.208:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.25:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.24:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.39:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.75:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.20:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/YF2zMTz.png",FRANCE 24 (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.212:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.90:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.183:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.214:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.73:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.210:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.26:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.213:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.14:30120
 #-------------------SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://github.com/luongtamlong/Dak-Lak-IPTV/blob/main/SCTV%20H%C3%A0i%20Ph%E1%BB%A5%20N%E1%BB%AF.png?raw=true", SCTV Hài Phụ Nữ Đắk Lắk HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
