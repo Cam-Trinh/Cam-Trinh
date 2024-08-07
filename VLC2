@@ -91,6 +91,8 @@ https://api.wintv.me/360/169/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://m3u.at/ON-GOLF
 #-------------------VTC-------------------#
+#EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD (HD 8Mbps)
+http://118.68.57.205:4000/udp/225.1.2.254:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",VTC2
 http://118.68.57.205:4000/udp/225.1.4.41:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD (HD 4Mbps)
