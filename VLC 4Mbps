@@ -90,16 +90,26 @@ https://api.wintv.me/360/169/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://m3u.at/ON-GOLF
 #-------------------VTC-------------------#
+#EXTINF:0 tvg-id="" group-title="FPT Play",VTC2
+http://118.68.57.205:4000/udp/225.1.4.41:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.42:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.43:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play",VTC5
+http://118.68.57.205:4000/udp/225.1.4.44:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 HD (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.45:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play",VTC7
+http://118.68.57.205:4000/udp/225.1.4.46:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play",VTC8
+http://118.68.57.205:4000/udp/225.1.4.47:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 HD (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.48:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.49:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play",VTC11
+http://118.68.57.205:4000/udp/225.1.4.50:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.53:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD (HD 4Mbps)
@@ -111,54 +121,28 @@ http://118.68.57.205:4000/udp/225.1.4.56:30120
 http://118.68.57.205:4000/udp/225.1.4.59:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.11:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV TH? THAO (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THE THAO (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.60:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du L?ch và Cu?c S?ng (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lich và Cuoc Song (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.67:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nh?c (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhac (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.223:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Ð?nh (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Dinh (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.64:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.63:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Ph? N? (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phu Nu (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.66:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thu?n Vi?t (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuan Viet (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.62:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.91:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.211:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.221:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.98:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/YtZGuSy.png",Qu?c H?i HD (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.148:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.170:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.219:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH B?c Giang
-http://118.68.57.205:4000/udp/225.1.4.173:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà N?i (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.203:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UfOw13y.png",THÐT1 HD _ TH Ð?ng Tháp (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.125:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/WXebESa.png",THÐT2 Mi?n Tây (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.177:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH V?nh Long (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.202:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH V?nh Long (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.87:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH V?nh Long (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.176:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH V?nh Long (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.217:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.164:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH H?u Giang (HD 4Mbps)
-http://118.68.57.205:4000/udp/225.1.4.133:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play",HTV1
+http://118.68.57.205:4000/udp/225.1.4.55:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play",HTV3
+http://118.68.57.205:4000/udp/225.1.4.57:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play",HTV Keys
+http://118.68.57.205:4000/udp/225.1.4.58:30120
 #-------------------World-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.19:30120
@@ -288,24 +272,37 @@ https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
-#-------------------Kênh SD-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC2
-http://118.68.57.205:4000/udp/225.1.4.41:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC5
-http://118.68.57.205:4000/udp/225.1.4.44:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC7
-http://118.68.57.205:4000/udp/225.1.4.46:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC8
-http://118.68.57.205:4000/udp/225.1.4.47:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",VTC11
-http://118.68.57.205:4000/udp/225.1.4.50:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HTV1
-http://118.68.57.205:4000/udp/225.1.4.55:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HTV3
-http://118.68.57.205:4000/udp/225.1.4.57:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",HTV Keys
-http://118.68.57.205:4000/udp/225.1.4.58:30120
-#-------------------Địa phương-------------------#
+#-------------------Dia Phuong-------------------#
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.221:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.98:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/YtZGuSy.png",Qu?c H?i HD (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.148:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.170:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.219:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH B?c Giang
+http://118.68.57.205:4000/udp/225.1.4.173:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà N?i (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.203:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UfOw13y.png",THÐT1 HD _ TH Ð?ng Tháp (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.125:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/WXebESa.png",THÐT2 Mi?n Tây (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.177:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH V?nh Long (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.202:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH V?nh Long (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.87:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH V?nh Long (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.176:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH V?nh Long (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.217:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.164:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH H?u Giang (HD 4Mbps)
+http://118.68.57.205:4000/udp/225.1.4.133:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",QTV3 HD _ TH Qu?ng Ninh
 http://118.68.57.205:4000/udp/225.1.4.86:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",BPTV2 HD _ TH B?nh Phý?c
