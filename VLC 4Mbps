@@ -151,6 +151,76 @@ http://118.68.57.205:4000/udp/225.1.4.26:30120
 http://118.68.57.205:4000/udp/225.1.4.213:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD (HD 4Mbps)
 http://118.68.57.205:4000/udp/225.1.4.14:30120
+#-------------------SCTV-------------------#
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://github.com/luongtamlong/Dak-Lak-IPTV/blob/main/SCTV%20H%C3%A0i%20Ph%E1%BB%A5%20N%E1%BB%AF.png?raw=true", SCTV Hài Phụ Nữ Đắk Lắk HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8?
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8?
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv3/index.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD - SCJ
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png", SCTV6 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv6/index.m3u8?
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv8/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv10/index.m3u8
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv11/index.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv12/index.m3u8
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png", SCTV13 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv13/index.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv18/index.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png", SCTV19 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/82.png", SCTV20 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv20/index.m3u8
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 #-------------------Kênh SD-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Play",VTC2
 http://118.68.57.205:4000/udp/225.1.4.41:30120
