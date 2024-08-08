@@ -9,7 +9,7 @@ http://118.68.57.205:4000/udp/225.1.4.3:30120
 http://118.68.57.205:4000/udp/225.1.4.4:30120
 #EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 HD
 http://118.68.57.205:4000/udp/225.1.4.5:30120
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV C?n Thõ HD
+#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Can Tho HD
 http://118.68.57.205:4000/udp/225.1.4.6:30120
 #EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV C?n Thõ HD
 http://118.68.57.205:4000/udp/225.1.4.108:30120
