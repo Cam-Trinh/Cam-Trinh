@@ -1,3 +1,4 @@
+https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV12.smil/chunklist.m3u8
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 http://118.68.57.205:4000/udp/225.1.4.1:30120
