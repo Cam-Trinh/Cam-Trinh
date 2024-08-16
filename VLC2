@@ -1,6 +1,7 @@
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 http://118.68.57.205:4000/udp/225.1.4.1:30120
+#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 http://118.68.57.205:4000/udp/225.1.1.6:30120
 #EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD
 http://118.68.57.205:4000/udp/225.1.4.2:30120
