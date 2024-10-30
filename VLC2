@@ -1,8 +1,6 @@
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 http://dinhdong.ddns.net:13579/udp/225.1.4.1:30120
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
-http://dinhdong.ddns.net:13579/udp/225.1.1.6:30120
 #EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD
 http://dinhdong.ddns.net:13579/udp/225.1.4.2:30120
 #EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 HD
@@ -62,30 +60,15 @@ http://dinhdong.ddns.net:13579/udp/225.1.4.25:30120
 http://dinhdong.ddns.net:13579/udp/225.1.4.24:30120
 #EXTINF:0 tvg-id="" group-title="World" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks HD
 http://dinhdong.ddns.net:13579/udp/225.1.4.39:30120
-#EXTINF:0 tvg-id="" group-title="World" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.75:30120
 #EXTINF:0 tvg-id="" group-title="World" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV HD
 http://dinhdong.ddns.net:13579/udp/225.1.4.20:30120
 #EXTINF:0 tvg-id="" group-title="World" tvg-logo="https://i.imgur.com/YF2zMTz.png",FRANCE 24 HD
 http://dinhdong.ddns.net:13579/udp/225.1.4.212:30120
 #EXTINF:0 tvg-id="" group-title="World" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO HD
 http://dinhdong.ddns.net:13579/udp/225.1.4.183:30120
-#EXTINF:0 tvg-id="" group-title="World" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.214:30120
-#EXTINF:0 tvg-id="" group-title="World" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.73:30120
-#EXTINF:0 tvg-id="" group-title="World" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.210:30120
-#EXTINF:0 tvg-id="" group-title="World" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.26:30120
-#EXTINF:0 tvg-id="" group-title="World" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.213:30120
-#EXTINF:0 tvg-id="" group-title="World" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.14:30120
 #-------------------VTC-------------------#
 #EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD
-http://dinhdong.ddns.net:13579/udp/225.1.2.254:30120#EXTINF:0 tvg-id="" group-title="VTC",VTC2
-http://dinhdong.ddns.net:13579/udp/225.1.4.41:30120
+http://dinhdong.ddns.net:13579/udp/225.1.2.254:30120
 #EXTINF:0 tvg-id="" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD
 http://dinhdong.ddns.net:13579/udp/225.1.4.42:30120
 #EXTINF:0 tvg-id="" group-title="VTC",VTC5
@@ -103,20 +86,6 @@ http://dinhdong.ddns.net:13579/udp/225.1.4.59:30120
 http://dinhdong.ddns.net:13579/udp/225.1.4.11:30120
 #EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THE THAO HD
 http://dinhdong.ddns.net:13579/udp/225.1.4.60:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lich và Cuoc Song HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.67:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhac HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.223:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Dinh HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.64:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.63:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phu Nu HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.66:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuan Viet HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.62:30120
-#EXTINF:0 tvg-id="" group-title="HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ HD
-http://dinhdong.ddns.net:13579/udp/225.1.4.91:30120
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://github.com/luongtamlong/Dak-Lak-IPTV/blob/main/SCTV%20H%C3%A0i%20Ph%E1%BB%A5%20N%E1%BB%AF.png?raw=true", SCTV Hài Phụ Nữ Đắk Lắk HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8?
